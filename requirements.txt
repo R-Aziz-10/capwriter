@@ -1,0 +1,4 @@
+google-genai==2.10.0
+streamlit==1.54.0
+st_copy_to_clipboard==0.1.6
+supabase==2.31.0
