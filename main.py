@@ -7,6 +7,11 @@ from google.genai.errors import ServerError
 
 st.set_page_config(page_title="CapWriter", layout="wide")
 
+st.markdown(
+    '<meta name="dicoding:email" content="rizkyaziz2022@gmail.com">',
+    unsafe_allow_html=True
+)
+
 # ============================================================
 # KONFIGURASI API
 # ============================================================
