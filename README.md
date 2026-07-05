@@ -92,6 +92,6 @@ streamlit run main.py
 
 ---
 
-## 👤 Developer
+## Developer
 
 **Rizky Aziz Putra A.** — Perancangan sistem, pengembangan aplikasi, dan deployment
